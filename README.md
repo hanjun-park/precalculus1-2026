@@ -10,9 +10,9 @@ This repository contains the open-source experiment code and resources for the *
 * **English:** [Course Website](https://sites.google.com/view/precalculus1-postech)
 
 ### 🚀 Quick Start
-You can run the experiment code directly in your browser using Google Colab:
+You can run the experiment code with "blanks" directly in your browser using Google Colab:
 * [**Open in Colab**] [Colab](https://colab.research.google.com/drive/1nPmjYl6NbxwVk8F6J7lMs-xufir_Lt64?usp=sharing)
-
+* Complete codes with blanks filled are found in github (here).
 ---
 **Contact, Copyright:**
 Hanjun Park (parkterry @ postech.ac.kr)
