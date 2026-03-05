@@ -11,7 +11,7 @@ This repository contains the open-source experiment code and resources for the *
 
 ### 🚀 Quick Start
 You can run the experiment code directly in your browser using Google Colab:
-* [**Open in Colab**]((https://colab.research.google.com/drive/1nPmjYl6NbxwVk8F6J7lMs-xufir_Lt64?usp=sharing))
+* [**Open in Colab**]([Colab](https://colab.research.google.com/drive/1nPmjYl6NbxwVk8F6J7lMs-xufir_Lt64?usp=sharing))
 
 ---
 **Contact, Copyright:**
