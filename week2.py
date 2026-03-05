@@ -16,16 +16,17 @@ import math
 ##############################  YOU SHOULD FILL [FILL HERE]  ########################################
 
 # 1. Create a range of integers for visualization (x-axis).
-n_values = [FILL HERE] # Hint: np.arange(a, b) creates the integer list from a to b-1. a, b should be integer
+n_values = np.arange(1,101) # Hint: np.arange(a, b) creates the integer list from a to b-1. a, b should be integer
 
 # 2. Define the sequence that approaches e
-b_n = [FILL HERE] # Hint: a**b is equal to operation a^b.
+b_n = ( 1+ 1/n_values ) ** n_values # Hint: a**b is equal to operation a^b.
 
 # 3. Define the ratio
-r_n = [FILL HERE] # Hint: np.e is equal to exponential
+r_n = np.e / b_n # Hint: np.e is equal to exponential
 
 # 4. Define d_n = n^{1/n}
-d_n = [FILL HERE]
+d_n = n_values ** (1/n_values)
+
 #####################################################################################################
 
 # Calculate terms a_n iteratively
