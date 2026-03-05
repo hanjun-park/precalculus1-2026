@@ -1,11 +1,20 @@
-# Precalculus1 (26S)
-Open Source Experiment code for Precalculus1 (26S) at POSTECH
-Course Information: 
-[Korean] (https://freshman.postech.ac.kr/freshman/mus-bbs/bbs_notice.do?mode=view&articleNo=44367)
-[English] ([https://sites.google.com/view/precalculus1-2026/](https://sites.google.com/view/precalculus1-postech))
+***
 
-# Colab Link (Direct Implementation)
+# PrecalculusI with Experiments (2026 Spring)
+**Open Source Experiment Code for 'PrecalculusI with Experiments' at POSTECH**
 
+This repository contains the open-source experiment code and resources for the **PrecalculusI with Experiments** course (Spring 2026) at **POSTECH**.
 
-Copyright: Hanjun Park ( parkterry @ postech.ac.kr )
+### 📚 Course Information
+* **Korean:** [Course Announcement](https://freshman.postech.ac.kr/freshman/mus-bbs/bbs_notice.do?mode=view&articleNo=44367)
+* **English:** [Course Website](https://sites.google.com/view/precalculus1-postech)
 
+### 🚀 Quick Start
+You can run the experiment code directly in your browser using Google Colab:
+* [**Open in Colab**](YOUR_COLAB_LINK_HERE)
+
+---
+**Contact, Copyright:**
+Hanjun Park (parkterry @ postech.ac.kr)
+
+***
